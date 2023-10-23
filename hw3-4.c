@@ -89,6 +89,8 @@ int main()
     printf("A");
     printf("%d",b);
     printf("B");
+    a = 0;
+    b = 0;
 }
 }
 
