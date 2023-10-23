@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-main()
+main()//
 {
 int s1,s2,s3,d1,d2,d3,temp;
 scanf("%d %d %d %d %d %d",&s1,&d1,&s2,&d2,&s3,&d3);
