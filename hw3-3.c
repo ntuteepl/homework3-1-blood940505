@@ -2,7 +2,7 @@
 #include <stdbool.h>
 main()
 {
-int s,d1,d2;/ww
+int s,d1,d2;
 int a1,a2;
 scanf("%d %d",&a1,&a2);
 for(int i = 1; i < 5 ;i++){
