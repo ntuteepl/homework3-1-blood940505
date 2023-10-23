@@ -12,7 +12,7 @@ int main()
     p=(ans % 10);
     while(1)
     {
-    scanf("%d",&g);/*當輸入為0*/
+    scanf("%d",&g);
     if(g == 0)
     {
         break;
