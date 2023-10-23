@@ -35,13 +35,13 @@ if(s2<s3)
 }
 
 int car = 1;
-if(s2 > d1){
+if(s2 > d3){
     car = car + 1;
 }
-if(s3 > d2){
+if(s1 > d2){
     car = car + 1;
 }
-if(s3 >= d1 && s2>d1 &&  d3>d2){
+if(s1 >= d3 && s2>d3 &&  d1>d2){
     car = car - 1;
 }
 
