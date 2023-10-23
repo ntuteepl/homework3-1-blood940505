@@ -16,10 +16,10 @@ if(number == 1){
 if(number == 2){
     ans = true;
 }
-if(ans = true){
+if(ans == true){
 printf("YES");
 }
-else if(ans = false){
+else if(ans == false){
     printf("NO");
 }
 }
