@@ -14,6 +14,9 @@ if(s3 <= d2){
 if(s3 >= d1){
     car = car - 1;
 }
+if(s2 >= d3){
+    car = car - 1;
+}
 printf("%d",car);
 
 
