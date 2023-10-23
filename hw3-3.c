@@ -5,14 +5,10 @@ main()
 int s,d1,d2;
 int a1,a2;
 scanf("%d %d",&a1,&a2);
-for(int i = 1; i < 5 ;i++){
-int q = a1 / i;
-d1 = d1 + q;
-}
-for(int i = 1; i < 5 ;i++){
-int q = a2 / i;
-d2 = d2 + q;
-}
+d1=(a1/1000 + a1%1000/100 + a1%100/10 + a1/10);
+d2=(a2/1000 + a2%1000/100 + a2%100/10 + a2/10);
+
+    
 if(d1 > d2){
     printf("%d",a2);
 }
