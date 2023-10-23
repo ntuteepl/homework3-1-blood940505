@@ -1,5 +1,5 @@
-#include <stdio.h>//skip
-#include <stdbool.h>
+#include <stdio.h>
+#include <stdbool.h>//skip
 main()
 {
 int number;
